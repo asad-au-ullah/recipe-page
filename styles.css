@@ -132,16 +132,14 @@ p {
     font-size: 1rem;
     line-height: 1.5;
     color: var(--stone-600);
-    margin-bottom: 2rem;
 }
 
-/* Content sections */
 article {
     padding: 2.5rem;
 }
 
 section {
-    margin-top: 2rem;    
+    margin-top: 2rem;
     margin-bottom: 2rem;
 }
 
