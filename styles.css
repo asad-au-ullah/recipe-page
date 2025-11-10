@@ -220,7 +220,7 @@ td:last-child {
     }
 
     h1 {
-        font-size: 2rem;
+        font-size: 1.5rem;
         margin-bottom: 1rem;
     }
 
@@ -237,5 +237,17 @@ td:last-child {
 
     article {
         padding: 1.5rem;
+    }
+
+    p {
+        font-size: 0.76rem;
+        line-height: 1.5;
+        color: var(--stone-600);
+    }
+
+    li {
+        margin-bottom: 0.5rem;
+        line-height: 1.5;
+        font-size: 0.8rem;
     }
 }
